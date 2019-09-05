@@ -1,0 +1,1 @@
+pkg update;pkg upgrade;pkg install git;pkg install ruby;gem install lolcat;pkg install toilet;pkg install figlet;pkg install python;pkg install python2;pip 2 install mechanize;pip2 install requests;pip2 install bs4;sh mtchannel.sh
